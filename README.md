@@ -1,2 +1,0 @@
-# AndersonHelloProject
-Hello World
